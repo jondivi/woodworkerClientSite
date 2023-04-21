@@ -2295,6 +2295,12 @@ input, select, textarea {
 			transform: translateY(100%);
 		}
 
+		.phoneNumber {
+			text-decoration: none;
+			font-weight: bold;
+			color: darkgreen;
+		}
+
 		@media screen and (max-width: 736px) {
 
 			#contact .box {
@@ -2310,3 +2316,6 @@ input, select, textarea {
 			}
 
 		}
+
+
+
